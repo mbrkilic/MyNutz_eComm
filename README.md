@@ -1,5 +1,9 @@
 # dene1
 
+Site Arayüz ve Özellikleri
+![genel2 00_00_00-00_00_30~1](https://user-images.githubusercontent.com/80039230/145114003-ae5af684-1920-4ead-b40f-d8e675028136.gif)
+
+
 Admin - Ürün
 ![admin - ürün2 00_00_00-00_00_30](https://user-images.githubusercontent.com/80039230/145113026-638467d1-4c6d-45dd-9f75-785143323173.gif)
 
